@@ -1,0 +1,16 @@
+C:\Users\Shcool Account\source\Class 2\Ticketing System\bin\Debug\net5.0\Ticketing System.exe
+C:\Users\Shcool Account\source\Class 2\Ticketing System\bin\Debug\net5.0\Ticketing System.deps.json
+C:\Users\Shcool Account\source\Class 2\Ticketing System\bin\Debug\net5.0\Ticketing System.runtimeconfig.json
+C:\Users\Shcool Account\source\Class 2\Ticketing System\bin\Debug\net5.0\Ticketing System.runtimeconfig.dev.json
+C:\Users\Shcool Account\source\Class 2\Ticketing System\bin\Debug\net5.0\Ticketing System.dll
+C:\Users\Shcool Account\source\Class 2\Ticketing System\bin\Debug\net5.0\ref\Ticketing System.dll
+C:\Users\Shcool Account\source\Class 2\Ticketing System\bin\Debug\net5.0\Ticketing System.pdb
+C:\Users\Shcool Account\source\Class 2\Ticketing System\obj\Debug\net5.0\Ticketing System.csproj.AssemblyReference.cache
+C:\Users\Shcool Account\source\Class 2\Ticketing System\obj\Debug\net5.0\Ticketing System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shcool Account\source\Class 2\Ticketing System\obj\Debug\net5.0\Ticketing System.AssemblyInfoInputs.cache
+C:\Users\Shcool Account\source\Class 2\Ticketing System\obj\Debug\net5.0\Ticketing System.AssemblyInfo.cs
+C:\Users\Shcool Account\source\Class 2\Ticketing System\obj\Debug\net5.0\Ticketing System.csproj.CoreCompileInputs.cache
+C:\Users\Shcool Account\source\Class 2\Ticketing System\obj\Debug\net5.0\Ticketing System.dll
+C:\Users\Shcool Account\source\Class 2\Ticketing System\obj\Debug\net5.0\ref\Ticketing System.dll
+C:\Users\Shcool Account\source\Class 2\Ticketing System\obj\Debug\net5.0\Ticketing System.pdb
+C:\Users\Shcool Account\source\Class 2\Ticketing System\obj\Debug\net5.0\Ticketing System.genruntimeconfig.cache
